@@ -27,62 +27,9 @@ A personal knowledge management app built using the MERN stack with TypeScript. 
 
 ## 🧩 Project Structure
 
-# 🧠 Second Brain App
 
-A personal knowledge management app built using the MERN stack with TypeScript. Inspired by the "Second Brain" and Zettelkasten methodology, it helps you organize your thoughts, notes, and ideas in a structured, linkable format.
 
----
 
-## 🚀 Features
-
-- Rich-text / Markdown-based note taking
-- Note linking and tagging system
-- Full-text search and filters
-- Real-time auto-save
-- JWT-based user authentication
-- Mobile-responsive UI with dark mode
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React + TypeScript, TailwindCSS
-- **Backend:** Node.js + Express + TypeScript
-- **Database:** MongoDB with Mongoose
-- **Auth:** JSON Web Tokens (JWT)
-- **Web Hosting:** Vercel / Netlify (Frontend), Render / Heroku (Backend)
-
----
-
-## 🧩 Project Structure
-# 🧠 Second Brain App
-
-A personal knowledge management app built using the MERN stack with TypeScript. Inspired by the "Second Brain" and Zettelkasten methodology, it helps you organize your thoughts, notes, and ideas in a structured, linkable format.
-
----
-
-## 🚀 Features
-
-- Rich-text / Markdown-based note taking
-- Note linking and tagging system
-- Full-text search and filters
-- Real-time auto-save
-- JWT-based user authentication
-- Mobile-responsive UI with dark mode
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** React + TypeScript, TailwindCSS
-- **Backend:** Node.js + Express + TypeScript
-- **Database:** MongoDB with Mongoose
-- **Auth:** JSON Web Tokens (JWT)
-- **Web Hosting:** Vercel / Netlify (Frontend), Render / Heroku (Backend)
-
----
-
-## 🧩 Project Structure
 
 
 ---
